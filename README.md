@@ -5,8 +5,7 @@
 # Instructions
 - Follow the directory structure as shown below: 
   ```
-  ├── src
-        ├──  main.ipynb
+  ├── main.ipynb
   ├── src_img
   ├── out_img
   └── README.md
